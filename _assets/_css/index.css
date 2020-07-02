@@ -32,6 +32,10 @@ img[alt=logo]{
     grid-row-start: 1;
     grid-column-start: 2;
 }
+.leon-nav-list-item_two{
+    grid-row-start: 2;
+    grid-column-start: 2;
+}
 .leon-nav-list-item .p-title{
     margin:0;
     padding:0;
