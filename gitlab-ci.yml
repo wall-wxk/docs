@@ -1,0 +1,12 @@
+# 持续集成
+
+stages:
+  - deploy
+
+
+deploy:
+  stage: deploy
+  script:
+    - bash pub.sh
+  only:
+    - master
