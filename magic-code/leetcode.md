@@ -5,3 +5,5 @@
         - [罗马数字转整数](/magic-code/leetcode/romanToInt.md)
 - 回溯算法
     - [全排列](/magic-code/leetcode/permutations.md)
+- 贪心算法
+    - [分发饼干](/magic-code/leetcode/assign-cookies.md)
