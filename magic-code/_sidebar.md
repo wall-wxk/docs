@@ -14,7 +14,7 @@
         - [分发饼干](/magic-code/leetcode/assign-cookies.md)
     - 树
         - DFS
-            - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth.md)
+            - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth-dfs.md)
         - BFS
-            - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth.md)
+            - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth-bfs.md)
 
