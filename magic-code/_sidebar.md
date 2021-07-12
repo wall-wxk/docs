@@ -12,4 +12,9 @@
         - [全排列](/magic-code/leetcode/permutations.md)
     - 贪心算法
         - [分发饼干](/magic-code/leetcode/assign-cookies.md)
+    - 树
+        - DFS
+            - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth.md)
+        - BFS
+            - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth.md)
 
