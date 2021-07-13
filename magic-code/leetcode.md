@@ -12,3 +12,4 @@
         - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth-dfs.md)
     - BFS
         - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth-bfs.md)
+        - [二叉树的最小深度](/magic-code/leetcode/tree-minDepth.md)
