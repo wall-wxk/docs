@@ -21,4 +21,5 @@
             - [左叶子之和](/magic-code/leetcode/sum-of-left-leaves.md)
     - 链表
         - [反转链表](/magic-code/leetcode/reverse-list.md)
+        - [两个链表的第一个公共节点](/magic-code/leetcode/get-intersection-node.md)
 
