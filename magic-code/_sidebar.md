@@ -22,4 +22,6 @@
     - 链表
         - [反转链表](/magic-code/leetcode/reverse-list.md)
         - [两个链表的第一个公共节点](/magic-code/leetcode/get-intersection-node.md)
+    - 双指针
+        - [反转字符串](/magic-code/leetcode/reverse-string.md)
 
