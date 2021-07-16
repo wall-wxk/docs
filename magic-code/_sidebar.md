@@ -24,6 +24,7 @@
         - [两个链表的第一个公共节点](/magic-code/leetcode/get-intersection-node.md)
     - 双指针
         - [反转字符串](/magic-code/leetcode/reverse-string.md)
+        - [有序数组的平方](/magic-code/leetcode/squares-of-a-sorted-array.md)
     - 二分法
         - [搜索插入位置](/magic-code/leetcode/search-insert.md)
         - [第一个错误的版本](/magic-code/leetcode/first-wrong-version.md)
