@@ -11,6 +11,7 @@
     - DFS
         - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth-dfs.md)
         - [图像渲染](/magic-code/leetcode/flood-fill.md)
+        - [岛屿数量](/magic-code/leetcode/num-of-lands.md)
     - BFS
         - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth-bfs.md)
         - [二叉树的最小深度](/magic-code/leetcode/tree-minDepth.md)
