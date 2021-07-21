@@ -28,6 +28,8 @@
     - [搜索插入位置](/magic-code/leetcode/search-insert.md)
     - [第一个错误的版本](/magic-code/leetcode/first-wrong-version.md)
     - [二分查找](/magic-code/leetcode/binary-search.md)
+- 滑动窗口
+    - [字符串排列](/magic-code/leetcode/permutation-in-string.md)
 - 中等难度
     - 数组
         - [旋转数组](/magic-code/leetcode/rotate-array.md)
