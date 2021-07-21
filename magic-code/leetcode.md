@@ -27,6 +27,7 @@
     - [有序数组的平方](/magic-code/leetcode/squares-of-a-sorted-array.md)
     - [移动零](/magic-code/leetcode/move-zeroes.md)
     - [反转字符串中的单词 III](/magic-code/leetcode/reverse-words-in-a-string-iii.md)
+    - [合并两个有序数组](/magic-code/leetcode/merge-sorted-array.md)
 - 二分法
     - [搜索插入位置](/magic-code/leetcode/search-insert.md)
     - [第一个错误的版本](/magic-code/leetcode/first-wrong-version.md)
