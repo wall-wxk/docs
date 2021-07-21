@@ -32,6 +32,8 @@
 - 滑动窗口
     - [字符串排列](/magic-code/leetcode/permutation-in-string.md)
     - [无重复字符的最长子串](/magic-code/leetcode/no-repeat-char.md)
+- 动态规划
+    - [最小子序和](/magic-code/leetcode/maximum-subarray.md)
 - 中等难度
     - 数组
         - [旋转数组](/magic-code/leetcode/rotate-array.md)
