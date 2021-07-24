@@ -19,6 +19,8 @@
         - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth-bfs.md)
         - [二叉树的最小深度](/magic-code/leetcode/tree-minDepth.md)
         - [左叶子之和](/magic-code/leetcode/sum-of-left-leaves.md)
+    - 字典树
+        - [实现 Trie (前缀树)](/magic-code/leetcode/trie.md) 
 - 链表
     - [反转链表](/magic-code/leetcode/reverse-list.md)
     - [两个链表的第一个公共节点](/magic-code/leetcode/get-intersection-node.md)
