@@ -24,6 +24,7 @@
 - 链表
     - [反转链表](/magic-code/leetcode/reverse-list.md)
     - [两个链表的第一个公共节点](/magic-code/leetcode/get-intersection-node.md)
+    - [删除链表的倒数第 N 个结点](/magic-code/leetcode/remove-nth-from-end.md)
 - 双指针
     - [反转字符串](/magic-code/leetcode/reverse-string.md)
     - [有序数组的平方](/magic-code/leetcode/squares-of-a-sorted-array.md)
