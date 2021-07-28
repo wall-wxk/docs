@@ -41,6 +41,8 @@
     - [无重复字符的最长子串](/magic-code/leetcode/no-repeat-char.md)
 - 动态规划
     - [最小子序和](/magic-code/leetcode/maximum-subarray.md)
+- 位运算
+    - [位1的个数](/magic-code/leetcode/hamming-weight.md)
 - 中等难度
     - 数组
         - [旋转数组](/magic-code/leetcode/rotate-array.md)
