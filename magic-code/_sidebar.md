@@ -27,6 +27,7 @@
             - [左叶子之和](/magic-code/leetcode/sum-of-left-leaves.md)
         - 字典树
             - [实现 Trie (前缀树)](/magic-code/leetcode/trie.md) 
+            - [我的日程安排表 I](/magic-code/leetcode/my-calendar-1.md)
         - 基础
             - [二叉树的前序遍历](/magic-code/leetcode/tree-preorder-traversal.md)
             - [N叉树的前序遍历](/magic-code/leetcode/n-tree-preorder-traversal.md)
