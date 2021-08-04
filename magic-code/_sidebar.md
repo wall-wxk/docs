@@ -28,9 +28,10 @@
         - 字典树
             - [实现 Trie (前缀树)](/magic-code/leetcode/trie.md) 
             - [我的日程安排表 I](/magic-code/leetcode/my-calendar-1.md)
-        - 基础
+        - 二叉树
             - [二叉树的前序遍历](/magic-code/leetcode/tree-preorder-traversal.md)
             - [N叉树的前序遍历](/magic-code/leetcode/n-tree-preorder-traversal.md)
+            - [求根节点到叶节点数字之和](/magic-code/leetcode/sum-root-to-leaf-number.md)
     - 链表
         - [反转链表](/magic-code/leetcode/reverse-list.md)
         - [两个链表的第一个公共节点](/magic-code/leetcode/get-intersection-node.md)
