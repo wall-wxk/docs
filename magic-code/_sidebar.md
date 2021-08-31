@@ -55,6 +55,8 @@
     - 位运算
         - [位1的个数](/magic-code/leetcode/hamming-weight.md)
         - [2的幂](/magic-code/leetcode/power-of-two.md)
+    - 单调栈
+        - [有效的括号](/magic-code/leetcode/valid-parentheses.md)
     - 中等难度
         - 数组
             - [旋转数组](/magic-code/leetcode/rotate-array.md)
