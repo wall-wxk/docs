@@ -5,6 +5,8 @@
         - [罗马数字转整数](/magic-code/leetcode/romanToInt.md)
     - 数组类型
         - [存在重复元素](/magic-code/leetcode/contains-duplicate.md)
+    - 栈类型
+        - [用栈实现队列](/magic-code/leetcode/queue-using-stacks.md)
 - 回溯算法
     - [全排列](/magic-code/leetcode/permutations.md)
 - 贪心算法
