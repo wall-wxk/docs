@@ -1,66 +1,67 @@
-
 - [设计模式](/magic-code/design-patterns)
 
 - [算法](/magic-code/algorithm)
 
-- [leetcode题解](/magic-code/leetcode)
+- [leetcode 题解](/magic-code/leetcode)
 
-    - 基础题
-        - 数字类型
-            - [罗马数字转整数](/magic-code/leetcode/romanToInt.md)
-        - 数组类型
-            - [存在重复元素](/magic-code/leetcode/contains-duplicate.md)
-        - 栈类型
-            - [用栈实现队列](/magic-code/leetcode/queue-using-stacks.md)
-    - 回溯算法
-        - [全排列](/magic-code/leetcode/permutations.md)
-    - 贪心算法
-        - [分发饼干](/magic-code/leetcode/assign-cookies.md)
-    - 树
-        - DFS
-            - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth-dfs.md)
-            - [图像渲染](/magic-code/leetcode/flood-fill.md)
-            - [岛屿数量](/magic-code/leetcode/num-of-lands.md)
-            - [岛屿的最大面积](/magic-code/leetcode/max-area-of-island.md)
-            - [合并二叉树](/magic-code/leetcode/merge-two-binary-trees.md)
-        - BFS
-            - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth-bfs.md)
-            - [二叉树的最小深度](/magic-code/leetcode/tree-minDepth.md)
-            - [左叶子之和](/magic-code/leetcode/sum-of-left-leaves.md)
-        - 字典树
-            - [实现 Trie (前缀树)](/magic-code/leetcode/trie.md) 
-            - [我的日程安排表 I](/magic-code/leetcode/my-calendar-1.md)
-        - 二叉树
-            - [二叉树的前序遍历](/magic-code/leetcode/tree-preorder-traversal.md)
-            - [N叉树的前序遍历](/magic-code/leetcode/n-tree-preorder-traversal.md)
-            - [求根节点到叶节点数字之和](/magic-code/leetcode/sum-root-to-leaf-number.md)
-            - [路径总和](/magic-code/leetcode/path-sum.md)
-            - [对称二叉树](/magic-code/leetcode/symmetric-tree.md)
-    - 链表
-        - [反转链表](/magic-code/leetcode/reverse-list.md)
-        - [两个链表的第一个公共节点](/magic-code/leetcode/get-intersection-node.md)
-        - [删除链表的倒数第 N 个结点](/magic-code/leetcode/remove-nth-from-end.md)
-    - 双指针
-        - [反转字符串](/magic-code/leetcode/reverse-string.md)
-        - [有序数组的平方](/magic-code/leetcode/squares-of-a-sorted-array.md)
-        - [移动零](/magic-code/leetcode/move-zeroes.md)
-        - [反转字符串中的单词 III](/magic-code/leetcode/reverse-words-in-a-string-iii.md)
-        - [合并两个有序数组](/magic-code/leetcode/merge-sorted-array.md)
-    - 二分法
-        - [搜索插入位置](/magic-code/leetcode/search-insert.md)
-        - [第一个错误的版本](/magic-code/leetcode/first-wrong-version.md)
-        - [二分查找](/magic-code/leetcode/binary-search.md)
-    - 滑动窗口
-        - [字符串排列](/magic-code/leetcode/permutation-in-string.md)
-        - [无重复字符的最长子串](/magic-code/leetcode/no-repeat-char.md)
-    - 动态规划
-        - [最小子序和](/magic-code/leetcode/maximum-subarray.md)
-    - 位运算
-        - [位1的个数](/magic-code/leetcode/hamming-weight.md)
-        - [2的幂](/magic-code/leetcode/power-of-two.md)
-    - 单调栈
-        - [有效的括号](/magic-code/leetcode/valid-parentheses.md)
-    - 中等难度
-        - 数组
-            - [旋转数组](/magic-code/leetcode/rotate-array.md)
-
+  - 基础题
+    - 数字类型
+      - [罗马数字转整数](/magic-code/leetcode/romanToInt.md)
+    - 数组类型
+      - [存在重复元素](/magic-code/leetcode/contains-duplicate.md)
+    - 栈类型
+      - [用栈实现队列](/magic-code/leetcode/queue-using-stacks.md)
+  - 回溯算法
+    - [全排列](/magic-code/leetcode/permutations.md)
+  - 贪心算法
+    - [分发饼干](/magic-code/leetcode/assign-cookies.md)
+  - 树
+    - DFS
+      - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth-dfs.md)
+      - [图像渲染](/magic-code/leetcode/flood-fill.md)
+      - [岛屿数量](/magic-code/leetcode/num-of-lands.md)
+      - [岛屿的最大面积](/magic-code/leetcode/max-area-of-island.md)
+      - [合并二叉树](/magic-code/leetcode/merge-two-binary-trees.md)
+    - BFS
+      - [二叉树的最大深度](/magic-code/leetcode/tree-maxDepth-bfs.md)
+      - [二叉树的最小深度](/magic-code/leetcode/tree-minDepth.md)
+      - [左叶子之和](/magic-code/leetcode/sum-of-left-leaves.md)
+    - 字典树
+      - [实现 Trie (前缀树)](/magic-code/leetcode/trie.md)
+      - [我的日程安排表 I](/magic-code/leetcode/my-calendar-1.md)
+    - 二叉树
+      - [二叉树的前序遍历](/magic-code/leetcode/tree-preorder-traversal.md)
+      - [N 叉树的前序遍历](/magic-code/leetcode/n-tree-preorder-traversal.md)
+      - [求根节点到叶节点数字之和](/magic-code/leetcode/sum-root-to-leaf-number.md)
+      - [路径总和](/magic-code/leetcode/path-sum.md)
+      - [对称二叉树](/magic-code/leetcode/symmetric-tree.md)
+  - 链表
+    - [反转链表](/magic-code/leetcode/reverse-list.md)
+    - [两个链表的第一个公共节点](/magic-code/leetcode/get-intersection-node.md)
+    - [删除链表的倒数第 N 个结点](/magic-code/leetcode/remove-nth-from-end.md)
+  - 双指针
+    - [反转字符串](/magic-code/leetcode/reverse-string.md)
+    - [有序数组的平方](/magic-code/leetcode/squares-of-a-sorted-array.md)
+    - [移动零](/magic-code/leetcode/move-zeroes.md)
+    - [反转字符串中的单词 III](/magic-code/leetcode/reverse-words-in-a-string-iii.md)
+    - [合并两个有序数组](/magic-code/leetcode/merge-sorted-array.md)
+  - 二分法
+    - [搜索插入位置](/magic-code/leetcode/search-insert.md)
+    - [第一个错误的版本](/magic-code/leetcode/first-wrong-version.md)
+    - [二分查找](/magic-code/leetcode/binary-search.md)
+  - 滑动窗口
+    - [字符串排列](/magic-code/leetcode/permutation-in-string.md)
+    - [无重复字符的最长子串](/magic-code/leetcode/no-repeat-char.md)
+  - 动态规划
+    - [最小子序和](/magic-code/leetcode/maximum-subarray.md)
+  - 位运算
+    - [位 1 的个数](/magic-code/leetcode/hamming-weight.md)
+    - [2 的幂](/magic-code/leetcode/power-of-two.md)
+  - 单调栈
+    - [有效的括号](/magic-code/leetcode/valid-parentheses.md)
+  - 中等难度
+    - 数组
+      - [旋转数组](/magic-code/leetcode/rotate-array.md)
+  - 古典算法
+    - 投票算法
+      - [多数元素](/magic-code/leetcode/marjority-element.md)
