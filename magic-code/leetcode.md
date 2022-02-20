@@ -61,3 +61,5 @@
 - 古典算法
   - 投票算法
     - [多数元素](/magic-code/leetcode/marjority-element.md)
+  - 洗牌算法
+    - [打乱数组](/magic-code/leetcode/shuffle-nums.md)
