@@ -45,10 +45,12 @@
     - [移动零](/magic-code/leetcode/move-zeroes.md)
     - [反转字符串中的单词 III](/magic-code/leetcode/reverse-words-in-a-string-iii.md)
     - [合并两个有序数组](/magic-code/leetcode/merge-sorted-array.md)
+    - [山峰数组的顶部](/magic-code/leetcode/mountain-array.md)
   - 二分法
     - [搜索插入位置](/magic-code/leetcode/search-insert.md)
     - [第一个错误的版本](/magic-code/leetcode/first-wrong-version.md)
     - [二分查找](/magic-code/leetcode/binary-search.md)
+    - [山峰数组的顶部](/magic-code/leetcode/mountain-array.md)
   - 滑动窗口
     - [字符串排列](/magic-code/leetcode/permutation-in-string.md)
     - [无重复字符的最长子串](/magic-code/leetcode/no-repeat-char.md)
