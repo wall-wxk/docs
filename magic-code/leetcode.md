@@ -50,6 +50,7 @@
 - 滑动窗口
   - [字符串排列](/magic-code/leetcode/permutation-in-string.md)
   - [无重复字符的最长子串](/magic-code/leetcode/no-repeat-char.md)
+  - [长度最小的子数组](/magic-code/leetcode/min-sub-array.md)
 - 动态规划
   - [最小子序和](/magic-code/leetcode/maximum-subarray.md)
 - 位运算
