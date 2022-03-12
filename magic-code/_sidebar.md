@@ -69,3 +69,4 @@
       - [多数元素](/magic-code/leetcode/marjority-element.md)
     - 洗牌算法
       - [打乱数组](/magic-code/leetcode/shuffle-nums.md)
+      - [生成不重复随机数组](/magic-code/leetcode/get-random-array.md)
